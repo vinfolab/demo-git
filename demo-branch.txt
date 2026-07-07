@@ -6,6 +6,6 @@ this is the file that has been added to feature/demo branch
 hi this is shashi
 
 
-hi this commit is from tuesday morning class
+hi this commit is from microdegree - tuesday morning class at 4:30pm
 
 this is commit from github cloud
