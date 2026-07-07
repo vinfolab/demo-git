@@ -7,3 +7,5 @@ hi this is shashi
 
 
 hi this commit is from tuesday morning class
+
+this is commit from github cloud
