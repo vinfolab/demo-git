@@ -2,5 +2,5 @@ this is the demo content created by using git in local repository
 
 now i want multiple files to be committed 
 
-this
+to check git merge conlict with modify/delete flow.
 
