@@ -8,4 +8,4 @@ hi this is shashi
 
 hi this commit is from microdegree - tuesday morning class at 4:30pm
 
-this is commit from local repo to check merge conflict
+this is commit from remote repo to check merge conflict
